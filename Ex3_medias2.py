@@ -9,3 +9,5 @@ while nota >= 0:
 media = sum(notas)/len(notas)    
 print ' a media é ', media
 
+# Nota: 1.0
+# Comentario: cuidado com os dados entrados pelo usuario
