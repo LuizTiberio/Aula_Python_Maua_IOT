@@ -6,3 +6,6 @@ def par(numero):
 
 numero= int(input('digite o numero:  '))
 print(par(numero))
+
+# Nota: 1.0
+# Comentario: *
