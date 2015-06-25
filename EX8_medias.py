@@ -18,5 +18,5 @@ media = sum(notas)/len(notas)
 print "a media é ", media
 print "A maior nota é", max(notas)
 
-#Nota: 1.0
-#Comentario: **
+#Nota: 1.1
+#Comentario: Valia 1.0 mas dei +0.1 pelo uso de adicionais nao explicadas em aula
