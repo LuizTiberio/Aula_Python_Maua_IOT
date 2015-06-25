@@ -17,3 +17,6 @@ notas.remove(-1)
 media = sum(notas)/len(notas)    
 print "a media é ", media
 print "A maior nota é", max(notas)
+
+#Nota: 1.0
+#Comentario: **
